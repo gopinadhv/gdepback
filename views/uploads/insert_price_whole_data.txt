@@ -1,0 +1,15 @@
+
+                        INSERT INTO moviemeasure.movies_shows
+                        (id,circuit_name,theater_id,theater_name,theater_address,theater_city,theater_state,theater_zip,title,
+                            date_sh,time_sh,auditorium,price,child,senior,total_seats,
+                                available,reserved,checkered,amenities,ticket_availability,last_updates,
+                                        running_date,screen_format,movie_format,dma,
+                                studio_name,release_date,before_reserved,
+                                on_reserved,after_reserved,seating_type,source_flag,mm_id,actual_total_seats,actual_available,actual_reserved,actual_checkered,dsr_date_sh,dsr_last_updates,country,runtime)
+                            values (125513502,"Landmark Cinemas","37262","Landmark Cinemas 8 London","983 Wellington Road South","London","ON","N6E 3A9","Fast X","2023-05-18","19:00","6","$12.99","$9.99","$9.99",147,132,15,0,"| Closed Caption | REGULAR | Descriptive Video Service | Recliner Seating | Reserved Seating | Shout Out","cronjob","2023-02-19 05:41:06","2023-02-19","Closed Caption","2D","Toronto ON","Universal Pictures","2023-05-19",null,null,null,"Reserved","2","63e5a4649b73f419ce8a591b",147,132,15,0,"-1",-89,"Canada","Canada","null")
+,(125868869,"Landmark Cinemas","37262","Landmark Cinemas 8 London","983 Wellington Road South","London","ON","N6E 3A9","Fast X","2023-05-18","19:00","6","$12.99","$9.99","$9.99",0,-4,4,0,"| Closed Caption | REGULAR | Descriptive Video Service | Recliner Seating | Reserved Seating | Shout Out","cronjob","2023-02-21 03:24:53","2023-02-21","Closed Caption","2D","Toronto ON","Universal Pictures","2023-05-19",null,null,null,"Reserved","2","63e5a4649b73f419ce8a591b",147,128,19,0,"-1",-87,"Canada","Canada","null")
+,(127474877,"Landmark Cinemas","37262","Landmark Cinemas 8 London","983 Wellington Road South","London","ON","N6E 3A9","Fast X","2023-05-18","19:00","6","$12.99","$9.99","$9.99",0,-3,3,0,"Closed Caption | REGULAR | Descriptive Video Service | Recliner Seating | Reserved Seating | Shout Out","cronjob","2023-02-27 05:13:46","2023-02-27","Closed Caption","2D","Toronto ON","Universal Pictures","2023-05-19",null,null,null,"Reserved","2","63e5a4649b73f419ce8a591b",147,125,22,0,"-1",-81,"Canada","Canada","null")
+,(131074624,"Landmark Cinemas","37262","Landmark Cinemas 8 London","983 Wellington Road South","London","ON","N6E 3A9","Fast X","2023-05-18","19:00","6","$13.25","$10.21","$9.99",0,-2,2,0,"Closed Caption | REGULAR | Descriptive Video Service | Recliner Seating | Reserved Seating | Shout Out","available","2023-03-09 09:30:16","2023-03-09","Closed Caption","2D","Toronto ON","Universal Pictures","2023-05-19",null,null,null,"Reserved","2","63e5a4649b73f419ce8a591b",147,123,24,0,"1",71,"Canada","Canada","null")
+
+                    
+                    

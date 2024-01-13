@@ -1,0 +1,9 @@
+
+                                    UPDATE moviemeasure.ib_seating_map 
+                                    SET            
+                                    available=0
+                                    ,reserved=(total_seats-checkered)                                            
+                                    where ts_id in ('55728545','55620987','56936033','56202615','55635846','55635850','56202856','55653585')
+                                    and total_seats is not null
+                                    and available <> 0
+                    

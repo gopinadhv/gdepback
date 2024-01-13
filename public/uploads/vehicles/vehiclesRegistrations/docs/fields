@@ -1,0 +1,26 @@
+-> avgMileagwith/withoutload
+-> Metric tons /kgs
+
+registrationDate
+nationalPermitPaidDate
+nationalPermitExpiryDate
+
+basicGoodsPaidDate
+basicGoodsExpiryDate
+
+fitnessPaidDate
+fitnessExpiryDate
+
+roadTaxPaidDate
+roadTaxExpiryDate
+
+dhandaPaidDate
+dhandaExpiryDate
+
+pollutionPaidDate
+pollutionExpiryDate
+
+insurancePaidDate
+insuranceExpiryDate
+
+

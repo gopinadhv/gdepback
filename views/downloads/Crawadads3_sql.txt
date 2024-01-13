@@ -1,0 +1,8 @@
+INSERT INTO moviemeasure.movies_shows
+                                                    (circuit_name,theater_id,theater_name,theater_address,theater_city,theater_state,theater_zip,title,
+                                                        date_sh,time_sh,auditorium,price,child,senior,total_seats,
+                                                            available,reserved,checkered,amenities,ticket_availability,last_updates,
+                                                                    running_date,screen_format,movie_format,dma,
+                                                            studio_name,release_date,before_reserved,
+                                                            on_reserved,after_reserved,seating_type,source_flag,mm_id,actual_total_seats,actual_available,actual_reserved,actual_checkered,dsr_date_sh,dsr_last_updates,country,runtime,genre,rating,is_ticketing)
+                                                        values ("Cinemark Theatres","10846","Cinemark at Valparaiso","700 Porter's Vale Blvd.","Valparaiso","IN","46383","Fast X","2023-05-18","14:00","3",'$11.00','$7.50','$8.00',0,0,1,-1,"Reserved seating","Crawdads","2023-03-17 04:22:42","2023-03-17","Standard","2D","Chicago","Universal Pictures","2023-05-19 00:00:00",null,null,null,"Reserved","4","55653613",258,258,0,0,"1",63,"USA","","Action","NYR","0")

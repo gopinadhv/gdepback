@@ -1,0 +1,14 @@
+
+                                    UPDATE moviemeasure.circuit_scraper 
+                                    SET            
+                                    status ="DONE"   
+                                    ,available=0
+                                    ,reserved=(total_seats-checkered)                                            
+                                    where mongo_id in ('64053aef9b8dbe273a1da270','63fe9d33fdcb6375c474d125','63fe9d33fdcb6375c474d126','63fd4a62feee08208b693a3c')
+                                    and ticketing_available in ("soldout","sold out")
+                                    and mongo_id is not null
+                                    and total_seats is not null
+                                    and available <> 0
+                                    and date(last_updated)>=curdate()-1
+                                    and date>=curdate()-1 and date<=curdate()+14
+                    

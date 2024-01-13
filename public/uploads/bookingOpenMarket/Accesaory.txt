@@ -1,0 +1,47 @@
+Accessories:
+
+
+
+Pages: 
+C:\Futek\New folder\FUTEKApp\WebMvc\Areas\Store\Views\Accessory\List.cshtml
+C:\Futek\New folder\FUTEKApp\WebMvc\Areas\Store\Controllers\AccessoryController.cs
+C:\Futek\New folder\FUTEKApp\WebMvc\Scripts\store\accessory-list.js
+
+
+
+Click on Accessories-> Chuck With Male Square Drie
+-> Displaying Instock quantity
+-> Spec Sheet link open
+-> Clikc on Add to Cart button it's redirect to cart page (Futek 1.0). In dev "Please wait" message displaying
+
+Click on More Details->
+-> Displaying Instock quantity
+-> Spec Sheet link open
+->Lead time open a window
+->Extraneous Load Factor not working
+->3D Model Download not working
+-> Support -> Redirecting to Support page.
+
+Click on Accessories-> Instrument Accessories
+
+-> Displaying Instock quantity
+-> Spec Sheet link open
+-> Clikc on Add to Cart button it's redirect to cart page (Futek 1.0). In dev "Please wait" message displaying
+-> In-Stock check box displaying in Futek 1.0
+-> Blue border Heilighted for few Items.
+-> Select single product its redirecting to product configuration page.
+
+
+
+Click on More Details->
+-> Displaying Instock quantity
+-> Spec Sheet link open
+->Lead time open a window
+->Extraneous Load Factor not working
+->3D Model Download not working
+-> Support -> Redirecting to Support page.
+
+
+
+
+
